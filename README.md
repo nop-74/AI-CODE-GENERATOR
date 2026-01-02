@@ -1,18 +1,16 @@
-# AI-CODE-GENERATOR
-Генератор кода с искусственным интеллектом
-# 🤖 Генератор кода с искусственным интеллектом
+# 🤖 AI Code Generator
 
-Этот проект представляет собой простой генератор кода на базе искусственного интеллекта, который принимает подсказки на естественном языке (например, "напишите программу на Python для Fibonacci") и генерирует рабочий код.
+This project is a simple **AI-powered Code Generator** that takes natural language prompts (like "write a Python program for Fibonacci") and generates working code.
 
-✨ Особенности:
-- Преобразование английского языка в код
-- Запуск и исполнение сгенерированного кода
-- Документация, понятная пользователю
-- Возможность расширения для большего количества языков
+✨ Features:
+- Convert English to Code
+- Run & Execute Generated Code
+- Human-friendly documentation
+- Extendable for more languages
 
 ---
 
-## 🚀 как запустить
+## 🚀 How to Run
 1. Clone the repo
    ```bash
    git clone https://github.com/Janexus/AI-Code-Generator.git
@@ -31,7 +29,7 @@
 
 ---
 
-## 📂 Структура проекта
+## 📂 Project Structure
 - `app.py` → Main runner
 - `ai_code_generator/` → Core logic
 - `tests/` → Unit tests
@@ -39,9 +37,9 @@
 
 ---
 
-## 🧪 Пример
-**Подсказка:**  
-👉 "Напишите программу на Python, которая проверяет, является ли число простым".
+## 🧪 Example
+**Prompt:**  
+👉 "Write a Python program that checks if a number is prime."
 
 **Generated Code:**  
 ```python
@@ -53,8 +51,5 @@ def is_prime(n):
 ```
 ---
 
-## 👨‍💻 Автор
-Сделано с ❤️ для учебных проектов и колледжей.
-
-## Угостить меня Кофе
-![Alt text](https://github.com/nop-74/OPEN-AI-FREE-KEYS/blob/main/100.jpg)
+## 👨‍💻 Author
+Made with ❤️ for learning & college projects.
